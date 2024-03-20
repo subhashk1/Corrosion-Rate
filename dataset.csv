@@ -1,0 +1,9 @@
+ Material                      , Cost         , Durability   , Weight      , Corrosion Resistance , Temperature Resistance , Manufacturing Complexity , Availability    
+-------------------------------,--------------,--------------,-------------,----------------------,------------------------,--------------------------,-----------------
+ Nickel-Based Superalloys     , Medium-High  , Very High    , Medium-High , Very High            , Very High              , Medium                   , Very High       
+ Stainless Steel              , Medium       , High         , Medium      , High                 , Medium                 , Medium                   , High            
+ Titanium Alloys              , High         , Very High    , Low         , Very High            , Very High              , Medium-High              , Medium          
+ Carbon Fiber Reinforced Polymers (CFRP) , High , High       , Very Low    , Very High            , Medium-High            , Medium                   , Medium          
+ Ceramic Matrix Composites (CMCs) , High     , Very High    , Very Low    , Very High            , Very High              , High                     , Low             
+ Inconel                       , Medium-High  , Very High    , Medium      , Very High            , Very High              , Medium                   , Very High       
+ Single Crystal Alloys        , High         , Very High    , Medium      , Very High            , Very High              , High                     , Low             
